@@ -1,0 +1,2 @@
+rootProject.name = "Sound of Sounds"
+include ':app'
